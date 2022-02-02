@@ -1,0 +1,42 @@
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  width: 50%;
+}
+
+.center1 {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+}
+
+.font1 {
+  font-family: fantasy;
+  font-size: xx-large;
+}
+
+.font2 {
+  font-family: fantasy;
+  font-size: large;
+}
+
+.brighterblue {
+  color: rgb(192, 179, 176);
+}
+
+.Paragraph {
+  text-align: center;
+}
+
+.li {
+  float: left;
+}
+
+.a {
+  display: block;
+  padding: 8px;
+  background-color: #dddddd;
+}
